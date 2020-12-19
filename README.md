@@ -15,3 +15,7 @@ With this data analysis the following questions will be answered:
 ## The Underlying Data
 Jester is an online joke recommender system developed by Ken Goldberg and the team at UC Berkeley. Users are presented jokes through an HTML client interface and allowed to rate jokes. Once a user rates all jokes in the gauge set, the system recommends new jokes to the user. The dataset contains over 1.7 million continuous ratings (-10.00 to +10.00) of 150 jokes from 59,132 users. The dataset is collected between November 2006 - May 2009.
 
+
+## Data Analysis
+The data analysis includes some NLP techniques.
+
